@@ -42,3 +42,9 @@ Refer to [Pulsar translation contribution workflow](https://github.com/apache/pu
 - Develop automation tool
 - Branch solution
 - [Client libraries](http://pulsar.apache.org/docs/en/client-libraries/)
+
+**Things to pay attention**
+
+- Correct
+- Complete
+- Clear and concise
