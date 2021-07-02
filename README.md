@@ -14,9 +14,9 @@ You can make contributions to any of the following items.
   
 - Fix typos or format (including space, indentation, punctuation, etc.)
 
-- Resolve [doc issues](https://github.com/apache/pulsar/issues?q=is%3Aopen+is%3Aissue).
+- Resolve [Pulsar doc issues](https://github.com/apache/pulsar/issues?q=is%3Aopen+is%3Aissue).
 
-- Review doc [pull requests](https://github.com/apache/pulsar/pulls?q=is%3Aopen+is%3Apr).
+- Review [Pulsar doc pull requests](https://github.com/apache/pulsar/pulls?q=is%3Aopen+is%3Apr).
 
 Taking a look at the following general information can help you get started quickly.
 
