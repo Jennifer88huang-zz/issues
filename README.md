@@ -34,3 +34,11 @@ Taking a look at the following general information can help you get started quic
 ## Contribution workflow
 
 Refer to [Pulsar translation contribution workflow](https://github.com/apache/pulsar-translation/blob/master/CONTRIBUTING.md).
+
+## OSPP scope
+
+- [Get Started](http://pulsar.apache.org/docs/en/standalone/)
+- [Deployment](http://pulsar.apache.org/docs/en/deploy-aws/)
+- Develop automation tool
+- Branch solution
+- [Client libraries](http://pulsar.apache.org/docs/en/client-libraries/)
