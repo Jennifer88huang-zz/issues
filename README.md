@@ -39,7 +39,7 @@ Refer to [Pulsar translation contribution workflow](https://github.com/apache/pu
 
 - [Get Started](http://pulsar.apache.org/docs/en/standalone/)
 - [Deployment](http://pulsar.apache.org/docs/en/deploy-aws/)
-- Develop automation tool
+- [Develop automation tool](https://docs.google.com/spreadsheets/d/1P6tePGmU1lEhGKY_hE3JWgJ1rUTBCmW7AshDICJZr3o/edit#gid=1030826289)
 - Branch solution
 - [Client libraries](http://pulsar.apache.org/docs/en/client-libraries/)
 
